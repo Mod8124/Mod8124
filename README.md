@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mod8124
 - 👀 I’m interested in code
 - 🌱 I’m currently learning coding, never is enough
-- 💞️ I’m looking to collaborate on everything i can.
+- 💞️ I’m looking to collaborate on front end code
 - 📫 How to reach me 
 
 <!---
