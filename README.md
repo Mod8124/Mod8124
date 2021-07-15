@@ -2,7 +2,7 @@
 - 👀 I’m interested front-code and some of back-end code.
 - 🌱 I’m currently practicing and learning coding, never is enough
 - 💞️ I’m looking to collaborate on front end code
-- 📫 How to reach me 
+- 📫 I'm available for work or freelance jobs.
 
 <!---
 Mod8124/Mod8124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
