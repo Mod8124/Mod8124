@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mod8124
+- 👋 Hi, I’m @Mod8124, front end/ ui ux designer from Costa Rica.
 - 👀 I’m interested front-code and some of back-end code.
 - 🌱 I’m currently practicing and learning coding, never is enough
 - 💞️ I’m looking to collaborate on front end projects
