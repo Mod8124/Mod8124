@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mod8124
 - 👀 I’m interested front-code and some of back-end code.
 - 🌱 I’m currently practicing and learning coding, never is enough
-- 💞️ I’m looking to collaborate on front end code
+- 💞️ I’m looking to collaborate on front end projects
 - 📫 I'm available for work or freelance jobs.
 
 <!---
