@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Denis, Web Developer & Web Designer,based Costa Rica.
+- 👋 Hi, I’m **Denis** , **Web Developer** & **Web Designer**,based Costa Rica.
 - 👀 I’m interested front-code and some of back-end code.
 - 🌱 I’m currently practicing and learning coding, never is enough, this world is huge!.
 - 💞️ I’m looking to collaborate on front end projects
