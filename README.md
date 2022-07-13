@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Denis, Web Developer & Web Designer, based San Jose Costa Rica.
-- 👀 I’m interested front-code and some of back-end code.
-- 🌱 I’m currently practicing and learning coding, never is enough, this world is huge!.
-- 💞️ I’m looking to collaborate on front end projects
-- 📫 I'm available for work.
+# Hello World! 👋
+### Hey There, I'm Denis , Web Developer & Web Designer 
+Located in San Jose, Costa Rica, Strong knowledge in front end technologies such as JavaScript, SASS, React, Vue, and TypeScript. Working with the best practices, architectures, and patterns. Passion for learning innovative technologies, animations and challange me with new problems every day
+
+# Tech Stack :computer:
 
 <!---
 Mod8124/Mod8124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
