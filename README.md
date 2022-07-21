@@ -27,7 +27,7 @@ Located in San Jose, Costa Rica, Strong knowledge in front end technologies such
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 # Blogs 📚
-This is currently down for maintenance
+This is currently down. 🔧
 
 
 <!---
