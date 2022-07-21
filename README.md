@@ -26,7 +26,7 @@ Located in San Jose, Costa Rica, Strong knowledge in front end technologies such
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-# Blogs 📚
+# Blogs  📖 
 
 
 <!---
