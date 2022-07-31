@@ -1,4 +1,4 @@
-# Hello World! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=50&duration=6000&color=FFFFFF&vCenter=true&height=60&lines=Hello+World!+%F0%9F%91%8B)](https://git.io/typing-svg)
 ### Hey There, I'm Denis , Web Developer & Web Designer 
 Located in San Jose, Costa Rica, Strong knowledge in front end technologies such as JavaScript, SASS, React, Vue, and TypeScript. Working with the best practices, architectures, and patterns. Passion for learning about innovative technologies, animations and challange me with new problems every day.
 
@@ -27,7 +27,7 @@ Located in San Jose, Costa Rica, Strong knowledge in front end technologies such
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 # Blogs 📚
-Currently down, working on it.
+**404**, Currently down, working on it. 
 
 
 <!---
