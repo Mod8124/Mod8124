@@ -30,7 +30,8 @@ Located in San Jose, Costa Rica, Strong knowledge in front end technologies such
 Currently down, working on it. 
 
 # Goal 🎓
-> Well, if this year I get a job in the industry, my goal for the next year 2023 is studying formally software engineer, I love to study computer science but in my country, there is nothing like that. xD 
+> Well, if this year I get a job in 
+the industry, my goal for the next year 2023 is to study formally software engineer, I love to study computer science but in my country, there is nothing like that. xD 
 
 
 <!---
