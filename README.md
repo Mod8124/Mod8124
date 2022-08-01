@@ -29,6 +29,9 @@ Located in San Jose, Costa Rica, Strong knowledge in front end technologies such
 # Blogs 📚
 Currently down, working on it. 
 
+# Goal 🎓
+> Well, if this year I get a job in the industry, my goal for the next year 2023 is studying formally software engineer, I love to study computer science but in my country, there is nothing like that. xD 
+
 
 <!---
 Mod8124/Mod8124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
