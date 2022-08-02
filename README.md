@@ -31,7 +31,7 @@ Currently down, working on it.
 
 # Goal 🎓
 > Well, if this year I get a job in 
-the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** from Costa Rica for personal reasons 💰.
+the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** from Costa Rica for personal reasons 💰 I can't right now.
 I'd **love** to study **computer science** but in my country, there is nothing like that. xD 
 
 
