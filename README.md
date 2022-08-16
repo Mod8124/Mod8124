@@ -40,7 +40,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 # 🎧Listening to 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=38bdae&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&redirect=true)
 
-# 🤝Connect with me 
+# 📅Activity Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mod8124&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mod8124&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
