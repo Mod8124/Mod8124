@@ -38,7 +38,7 @@ the industry, my goal for the next year 2023 is to **study** formally **software
 I'd **love** to study **computer science** but in my country, there is nothing like that. xD 
 
 # 🎧Listening to 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=fe428e&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=a9fef7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&redirect=true)
 
 # 📅Activity Stats
 
