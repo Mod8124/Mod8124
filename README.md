@@ -34,9 +34,11 @@ Currently down, working on it.
 # Goal 🎓
 > Well, if this year I get a job in 
 the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** from Costa Rica for personal reasons 💰 I can't right now.
-I'd **love** to study **computer science** but in my country, there is nothing like that. xD 
+I'd **love** to study **computer science** but in my country, there is nothing like that. xD #
 
+# Connect with me 🤝
 
+# Listening to 🎵
 <!---
 Mod8124/Mod8124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
