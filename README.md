@@ -29,13 +29,13 @@ Located in San Jose, Costa Rica, Strong knowledge in front end technologies such
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# Blogs 📚
-Currently down, working on it. 
-
 # Goal 🎓
 > Well, if this year I get a job in 
 the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** from Costa Rica for personal reasons 💰 I can't right now.
-I'd **love** to study **computer science** but in my country, there is nothing like that. xD #
+I'd **love** to study **computer science** but in my country, there is nothing like that. xD 
+
+# Blogs 📚
+Currently down, working on it. 
 
 # Connect with me 🤝
 
