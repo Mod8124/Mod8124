@@ -38,7 +38,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 
 # Connect with me 🤝
 
-# Listening to 🎵
+# Listening to 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&redirect=true)
 <!---
 Mod8124/Mod8124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
