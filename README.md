@@ -40,6 +40,12 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 # 🎧Listening to 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=a9fef7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&redirect=true)
 
+# 🤙Connect with me
+<div align="top">
+<a href="https://www.linkedin.com/in/denis-mu%C3%B1oz-28323921a/" target="blank"><img align="center" src="./src/icons/linkedin-icon.svg" alt="denis muñoz" height="120" width="120" /></a>
+<a href="https://www.linkedin.com/in/denis-mu%C3%B1oz-28323921a/" target="blank"><img align="center" src="./src/icons/gmail-icon.svg" alt="denis muñoz" height="60" width="60" /></a>
+<div>
+
 # 📅Activity Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mod8124&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mod8124&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
