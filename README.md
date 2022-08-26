@@ -43,7 +43,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 # 🤙Connect with me
 <div align="top">
 <a href="https://www.linkedin.com/in/denis-mu%C3%B1oz-28323921a/" target="blank"><img align="center" src="./src/icons/linkedIn-icon.svg" alt="denis muñoz" height="120" width="120" /></a>
-<a href="https://www.linkedin.com/in/denis-mu%C3%B1oz-28323921a/" target="blank"><img align="center" src="./src/icons/gmail-icon.svg" alt="denis muñoz" height="55" width="60" /></a>
+<a href="mailto:denisenriquebaca@gmail.com" target="blank"><img align="center" src="./src/icons/gmail-icon.svg" alt="denis muñoz" height="55" width="60" /></a>
 <div>
 
 # 📅Activity Stats
