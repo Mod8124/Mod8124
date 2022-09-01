@@ -52,6 +52,8 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mod8124&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mod8124&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mod8124&theme=react-dark&bg_color=141321&color=fe428e&line=a9fef7)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
+![contribution](/src/svg-animate/github-user-contribution.svg)
 <!---
 Mod8124/Mod8124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
