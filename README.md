@@ -53,6 +53,8 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mod8124&theme=react-dark&bg_color=141321&color=fe428e&line=a9fef7)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
+![trophy](https://github-profile-trophy.vercel.app/?username=mod8124&theme=radical)
+
 <!--![contribution](/src/svg-animate/github-user-contribution.svg)-->
 <!---
 Mod8124/Mod8124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
