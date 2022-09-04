@@ -61,7 +61,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 <img src="https://github-profile-trophy.vercel.app/?username=mod8124&theme=radical&column=7" width="100%"></img>
 </div>
 
-<img src="/src/img/hey5.jpeg" width="100%"></img>
+<!--<img src="/src/img/hey5.jpeg" width="100%"></img>-->
 
 <!--![contribution](/src/svg-animate/github-user-contribution.svg)-->
 <!---
