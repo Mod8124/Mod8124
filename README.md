@@ -1,5 +1,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=40&duration=6000&color=FFFFFF&vCenter=true&height=60&lines=Hello+World!+%F0%9F%91%8B)](https://git.io/typing-svg)-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=6000&pause=1000&color=FFFFFF&background=5A37FF00&vCenter=true&width=440&height=60&lines=%F0%9F%91%8BHello+World!)](https://git.io/typing-svg)
+<img src="/src/img/hey2.gif" width="100%"></img>
 ### Hey There, I'm Denis , Web Developer & Web Designer 
 Located in San Jose, Costa Rica, Strong knowledge in front end technologies such as JavaScript, SASS, React, Vue, and TypeScript. Working with the best practices, architectures, and patterns. Passion for learning about innovative technologies, animations and challange me with new problems every day.
 
@@ -59,6 +60,8 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mod8124&theme=radical&column=7" width="100%"></img>
 </div>
+
+<img src="/src/img/hey5.jpeg" width="100%"></img>
 
 <!--![contribution](/src/svg-animate/github-user-contribution.svg)-->
 <!---
