@@ -1,6 +1,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=40&duration=6000&color=FFFFFF&vCenter=true&height=60&lines=Hello+World!+%F0%9F%91%8B)](https://git.io/typing-svg)-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=6000&pause=1000&color=FFFFFF&background=5A37FF00&vCenter=true&width=440&height=60&lines=%F0%9F%91%8BHello+World!)](https://git.io/typing-svg)
-<img src="https://i.pinimg.com/originals/42/02/80/42028072d101dd330fc46773dd07a7be.gif"  width="100%" styled="object:cover"></img>
+<img src="https://i.pinimg.com/originals/a7/60/78/a7607834c3331bfe0c47531279268bcc.gif"  width="100%" styled="object:cover"></img>
 ### Hey There, I'm Denis , Web Developer & Web Designer 
 Located in San Jose, Costa Rica, Strong knowledge in **front end** technologies such as JavaScript, SASS, React, Vue, and TypeScript. Working with the best practices, architectures, and patterns. Passion for learning about innovative technologies, animations and challange me with new problems every day.
 
