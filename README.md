@@ -52,9 +52,10 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 # 🏆Motivation Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Life%20is%20not%20a%20game%20of%20luck.%20If%20you%20wanna%20win,%20work%20hard&author=Sora)](https://github.com/piyushsuthar/github-readme-quotes)
 
-# 🤙Connect with me
+# 🗺Where to find me
 ![LinkedIn](https://img.shields.io/badge/linkedin-a9fef7?style=for-the-badge&logo=linkedin&logoColor=black)
 ![Gmail](https://img.shields.io/badge/Gmail-fe428e?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 # 📅Activity Stats
 
