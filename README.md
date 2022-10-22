@@ -52,10 +52,10 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 # 🏆Motivation Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Life%20is%20not%20a%20game%20of%20luck.%20If%20you%20wanna%20win,%20work%20hard&author=Sora)](https://github.com/piyushsuthar/github-readme-quotes)
 
-# 🌌Where to find me
-![LinkedIn](https://img.shields.io/badge/linkedin-a9fef7?style=for-the-badge&logo=linkedin&logoColor=black)
-![Gmail](https://img.shields.io/badge/Gmail-fe428e?style=for-the-badge&logo=gmail&logoColor=white)
-![FrontMentor](./src/icons/frontendmentor-icon.svg)
+# 🌎Where to find me
+[![LinkedIn](https://img.shields.io/badge/linkedin-a9fef7?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/denis-mu%C3%B1oz-28323921a)
+[![Gmail](https://img.shields.io/badge/Gmail-fe428e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denisenriquebaca@gmail.com)
+[![FrontMentor](./src/icons/frontendmentor-icon.svg)](https://www.frontendmentor.io/profile/Mod8124)
 
 
 # 📅Activity Stats
