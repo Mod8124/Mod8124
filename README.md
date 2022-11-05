@@ -51,7 +51,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=a9fef7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&redirect=true)
 
 # 🏆Motivation Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Life%20is%20not%20a%20game%20of%20luck.%20If%20you%20wanna%20win,%20work%20hard&author=Sora)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=We%20can't%20waster%20time%20%20worrying%20about%20the%20what%20if's&author=Ichigo%20Kurosaki)](https://github.com/piyushsuthar/github-readme-quotes)
 
 # 🌎Where to find me
 [![LinkedIn](https://img.shields.io/badge/linkedin-a9fef7?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/denis-mu%C3%B1oz-28323921a)
@@ -60,9 +60,6 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 
 
 # 📅Activity Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mod8124&show_icons=true&theme=radical&hide=issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mod8124&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
