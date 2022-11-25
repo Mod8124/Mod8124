@@ -4,7 +4,7 @@
 ### Hey There, I'm Denis , Web Developer & Web Designer 
 Located in San Jose, Costa Rica, Strong knowledge in **front end** technologies such as JavaScript, SASS, React, Vue, and TypeScript. Working with the best practices, architectures, and patterns. Passion for learning about innovative technologies, animations and challange me with new problems every day.
 
-# :computer:Tech Stack
+<!--# :computer:Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,10 +40,10 @@ Located in San Jose, Costa Rica, Strong knowledge in **front end** technologies 
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)-->
 
-# 📚Blogs 
-Currently down, working on it. 
+<!--# 📚Blogs 
+Currently down, working on it. -->
 
 # 🎓Goal 
 > Well, if this year I get a job in 
