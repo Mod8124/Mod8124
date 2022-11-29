@@ -6,12 +6,12 @@
 <table align="right">
   <tr>
     <td style="background:#100f1a">
-      <a style="color:#a8ffef" href="./README.md"> English </a>
+      <a style="color:#a8ffef" href="https://github.com/Mod8124/Mod8124/blob/main/README.md"> English </a>
     </td>
   </tr>
   <tr>
     <td style="background:#100f1a">
-      <a style="color:#a8ffef" href="./README-sp.md"> Español </a>
+      <a style="color:#a8ffef" href="https://github.com/Mod8124/Mod8124/blob/main/README-SP.md"> Español </a>
     </td>
   </tr>
 </table>
