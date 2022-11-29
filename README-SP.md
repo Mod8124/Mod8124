@@ -1,19 +1,17 @@
-# hola
-
 <div id="top"></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font&size=45&duration=6000&pause=1000&color=f52277&background=5A37FF00&vCenter=true&width=460&height=60&lines=%F0%9F%91%8BHello+World!;%F0%9F%91%8B¡Hola+Mundo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font&size=45&duration=6000&pause=1000&weight=800&color=fff&background=5A37FF00&vCenter=true&width=460&height=60&lines=%F0%9F%91%8BHello+World!;%F0%9F%91%8B¡Hola+Mundo!)](https://git.io/typing-svg)
 <img src="./src/img/leaap.gif"  width="100%" styled="object:cover"></img>
 
 <table align="right">
   <tr>
     <td style="background:#100f1a">
-      <a style="color:#a8ffef" href="./README.md"> English </a>
+      <a style="color:#a8ffef" href="https://github.com/Mod8124/Mod8124/blob/main/README.md"> English </a>
     </td>
   </tr>
   <tr>
     <td style="background:#100f1a">
-      <a style="color:#a8ffef" href="./README-sp.md"> Español </a>
+      <a style="color:#a8ffef" href="https://github.com/Mod8124/Mod8124/blob/main/README-SP.md"> Español </a>
     </td>
   </tr>
 </table>
@@ -24,7 +22,7 @@ Located in San Jose, Costa Rica, Strong knowledge in **front end** technologies 
 
 # :computer:Tech Stack
 
-#### :fire:Programming and Markup Languages
+### :fire:Programming and Markup Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
@@ -36,7 +34,7 @@ Located in San Jose, Costa Rica, Strong knowledge in **front end** technologies 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
-#### 🎨Frameworks and Libraries
+### 🎨Frameworks and Libraries
 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
@@ -57,7 +55,7 @@ Located in San Jose, Costa Rica, Strong knowledge in **front end** technologies 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
 
-#### 🛢Databases, Hosting and Test
+### 🛢Databases, Hosting and Test
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -66,14 +64,14 @@ Located in San Jose, Costa Rica, Strong knowledge in **front end** technologies 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white)
 
-#### 📏Software Tools and others
+### 📏Software Tools and others
 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 
 # 📚Blogs
@@ -98,7 +96,6 @@ Currently down, working on it.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-a9fef7?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/denis-mu%C3%B1oz-28323921a)
 [![Gmail](https://img.shields.io/badge/Gmail-fe428e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denisenriquebaca@gmail.com)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
 [![FrontMentor](./src/icons/frontendmentor-icon.svg)](https://www.frontendmentor.io/profile/Mod8124)
 
 # 📅Activity Stats
@@ -133,12 +130,15 @@ Currently down, working on it.
 </div>
 </details>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=f52277&style=flat-square&logo" alt="back to top" /></a></p>
+<details>
+  <summary>🐍 Contribution Snake</summary>
+  <img alt="github contribution snake animation" src="https://github.com/Mod8124/Mod8124/blob/output/github-contribution-grid-snake.svg">
+</details>
 
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=f52277&style=flat-square&logo" alt="back to top" /></a></p>
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Inconsolata+Nerd+Font&size=30&pause=1000&color=f52277&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!;¡Gracias+por+visitar!" >
     </a>
 </div>
-
 <img src="https://i.pinimg.com/originals/6c/cc/20/6ccc207a075bbfdfb9749a702d563993.gif" width="100%"></img>
