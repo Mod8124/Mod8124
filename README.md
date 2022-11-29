@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font&size=45&duration=6000&pause=1000&color=f52277&background=5A37FF00&vCenter=true&width=460&height=60&lines=%F0%9F%91%8BHello+World!;%F0%9F%91%8B¡Hola+Mundo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font&size=45&duration=6000&pause=1000&weight=800&color=fff&background=5A37FF00&vCenter=true&width=460&height=60&lines=%F0%9F%91%8BHello+World!;%F0%9F%91%8B¡Hola+Mundo!)](https://git.io/typing-svg)
 <img src="./src/img/leaap.gif"  width="100%" styled="object:cover"></img>
 
 <table align="right">
@@ -66,12 +66,12 @@ Located in San Jose, Costa Rica, Strong knowledge in **front end** technologies 
 
 #### 📏Software Tools and others
 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 
 # 📚Blogs
@@ -96,7 +96,6 @@ Currently down, working on it.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-a9fef7?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/denis-mu%C3%B1oz-28323921a)
 [![Gmail](https://img.shields.io/badge/Gmail-fe428e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denisenriquebaca@gmail.com)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
 [![FrontMentor](./src/icons/frontendmentor-icon.svg)](https://www.frontendmentor.io/profile/Mod8124)
 
 # 📅Activity Stats
