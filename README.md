@@ -97,6 +97,7 @@ Currently down, working on it.
 [![LinkedIn](https://img.shields.io/badge/linkedin-a9fef7?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/denis-mu%C3%B1oz-28323921a)
 [![Gmail](https://img.shields.io/badge/Gmail-fe428e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denisenriquebaca@gmail.com)
 [![FrontMentor](./src/icons/frontendmentor-icon.svg)](https://www.frontendmentor.io/profile/Mod8124)
+[![Discord](https://img.shields.io/badge/Discord-543DE0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Mod812#8041)
 
 # 📅Activity Stats
 
