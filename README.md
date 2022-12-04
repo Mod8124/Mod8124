@@ -136,6 +136,9 @@ Currently down, working on it.
   <img alt="github contribution snake animation" src="https://github.com/Mod8124/Mod8124/blob/output/github-contribution-grid-snake.svg">
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=f52277&style=flat-square&logo" alt="back to top" /></a></p>
 <div align="center">
     <a href="https://git.io/typing-svg">
