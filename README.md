@@ -139,7 +139,17 @@ Currently down, working on it.
 <details>
   <summary>📊 Weekly development </summary>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+JavaScript   13 hrs 49 mins  ███████████████████▓░░░░░   78.27 %
+SCSS         2 hrs 57 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
+<!--END_SECTION:waka-->
    <p><b>*Note:</b>Top languages does not indicate my skill level or anything like that, it's only a metric xD.</p>
 </details>
 
