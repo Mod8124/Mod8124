@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font&size=45&duration=6000&pause=1000&weight=800&color=fff&background=5A37FF00&vCenter=true&width=460&height=60&lines=%F0%9F%91%8BHello+World!;%F0%9F%91%8B¡Hola+Mundo!)](https://git.io/typing-svg)
 <!--<img src="./src/img/leaap.gif"  width="100%" styled="object:cover"></img>-->
-<img src="https://i.pinimg.com/originals/f0/5e/da/f05eda10730288b615817a5880e9841e.gif"  width="100%" styled="object:cover"></img>
+<img src="https://i.pinimg.com/originals/f3/a9/9d/f3a99d76177befe7a933aa3c2653dcc1.gif"  width="100%" styled="object:cover"></img>
 
 <table align="right">
   <tr>
