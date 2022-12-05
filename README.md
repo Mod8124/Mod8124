@@ -156,5 +156,4 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Inconsolata+Nerd+Font&size=30&pause=1000&color=f52277&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!;¡Gracias+por+visitar!" >
     </a>
 </div>
-<!--<img src="https://i.pinimg.com/originals/6c/cc/20/6ccc207a075bbfdfb9749a702d563993.gif" width="100%"></img>-->
-<img src="https://i.pinimg.com/originals/f0/5e/da/f05eda10730288b615817a5880e9841e.gif"  width="100%" styled="object:cover"></img>
+<img src="https://i.pinimg.com/originals/6c/cc/20/6ccc207a075bbfdfb9749a702d563993.gif" width="100%"></img>
