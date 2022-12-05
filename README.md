@@ -105,7 +105,8 @@ Currently down, working on it.
 <summary>
 🔥 Streak Stats
 </summary>
-
+<br>
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=mod8124&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </details>
@@ -114,7 +115,8 @@ Currently down, working on it.
 <summary>
  💻 GitHub Profile Stats
 </summary>
-
+<br>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mod8124&show_icons=true&theme=radical&hide=issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mod8124&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mod8124&theme=react-dark&bg_color=141321&color=fe428e&line=a9fef7)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -125,19 +127,15 @@ Currently down, working on it.
 <summary>
 🏆 Achievements
 </summary>
-
+<br>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mod8124&theme=radical&column=7" width="100%"></img>
 </div>
 </details>
 
 <details>
-  <summary>🐍 Contribution Snake</summary>
-  <img alt="github contribution snake animation" src="https://github.com/Mod8124/Mod8124/blob/output/github-contribution-grid-snake.svg">
-</details>
-
-<details>
   <summary>📊 Weekly development </summary>
+  <br>
   <!--START_SECTION:waka-->
 
 ```text
@@ -153,6 +151,10 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
    <p><b>*Note:</b>Top languages does not indicate my skill level or anything like that, it's only a metric xD.</p>
 </details>
 
+<details>
+  <summary>🐍 Contribution Snake</summary>
+  <img alt="github contribution snake animation" src="https://github.com/Mod8124/Mod8124/blob/output/github-contribution-grid-snake.svg">
+</details>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=f52277&style=flat-square&logo" alt="back to top" /></a></p>
 <div align="center">
