@@ -136,18 +136,13 @@ Currently down, working on it.
   <img alt="github contribution snake animation" src="https://github.com/Mod8124/Mod8124/blob/output/github-contribution-grid-snake.svg">
 </details>
 
-<!--START_SECTION:waka-->
+<details>
+  <summary>📊 Weekly development </summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+   <p><b>*Note:</b>Top languages does not indicate my skill level or anything like that, it's only a metric xD.</p>
+</details>
 
-```text
-JavaScript   13 hrs 49 mins  ███████████████████▓░░░░░   78.27 %
-SCSS         2 hrs 57 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
-JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
-<!--END_SECTION:waka-->
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=f52277&style=flat-square&logo" alt="back to top" /></a></p>
 <div align="center">
