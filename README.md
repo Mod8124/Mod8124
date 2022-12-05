@@ -140,8 +140,6 @@ Currently down, working on it.
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Costa_Rica
-
 💬 Programming Languages: 
 JavaScript               13 hrs 49 mins      ███████████████████░░░░░░   78.27% 
 SCSS                     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74% 
@@ -152,7 +150,7 @@ HTML                     6 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/12/2022 01:12:55 UTC
+ Last Updated on 05/12/2022 01:36:56 UTC
 <!--END_SECTION:waka-->
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=f52277&style=flat-square&logo" alt="back to top" /></a></p>
