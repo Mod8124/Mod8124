@@ -148,7 +148,7 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-   <p><b>*Note:</b>Top languages does not indicate my skill level or anything like that, it's only a metric xD.</p>
+   <p><b>*Note:</b> Top languages does not indicate my skill level or anything like that, it's only a metric xD.</p>
 </details>
 
 <details>
