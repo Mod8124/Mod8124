@@ -69,9 +69,9 @@ Located in San Jose, Costa Rica, Strong knowledge in **front end** technologies 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 
-<!--# 📚Blogs
+# 📚Blogs
 
-Currently down, working on it.-->
+Currently down, working on it.
 
 # 🎓Goal
 
