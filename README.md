@@ -84,7 +84,7 @@ Currently down, working on it.
 
 # 🏆Motivation Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Change%20will%20never%20come%20about%20if%20you%20don't%20make%20it%20happen&author=Lelouch%20Lamperouge)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=If%20you%20dont'%20take%20risks%20you%20you%20can't%20create%20a%20future.&author=Monkey%20D.%20Luffy)](https://github.com/piyushsuthar/github-readme-quotes)
 
 # 🌎Where to find me
 
