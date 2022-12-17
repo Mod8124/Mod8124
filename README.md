@@ -115,8 +115,8 @@ Currently down, working on it.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mod8124&show_icons=true&theme=radical&hide=issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mod8124&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mod8124&theme=react-dark&bg_color=141321&color=fe428e&line=a9fef7)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mod8124&theme=react-dark&bg_color=141321&color=fe428e&line=a9fef7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 </details>
 
 <details>
