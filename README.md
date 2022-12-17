@@ -16,12 +16,12 @@
   </tr>
 </table>
 
-### Hey There, I'm Denis , Web Developer & Web Designer
+### Hey There, I'm Denis , Front End Developer & Web Designer
 
 I'm a self-taught Front End Developer who started as a Web Designer, based in Costa Rica.
 I have a passion for learning about innovative technologies, animations, best practices, and clean code.
 
-I like to challenge myself and improve my skills so Recently, I started my journey learning Full-Stack development in Oracle Next Education,
+I like to challenge myself and improve my skills so recently, I started my journey learning Full-Stack development in Oracle Next Education,
 also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
 
 # :computer:Tech Stack
