@@ -18,7 +18,11 @@
 
 ### Hey There, I'm Denis , Web Developer & Web Designer
 
-Located in San Jose, Costa Rica, Strong knowledge in **front end** technologies such as JavaScript, SASS, React, Vue, and TypeScript. Working with the best practices, architectures, and patterns. Passion for learning about innovative technologies, animations and challange me with new problems every day.
+I'm a self-taught Front End Developer who started as a Web Designer, based in Costa Rica.
+I have a passion for learning about innovative technologies, animations, best practices, and clean code.
+
+I like to challenge myself and improve my skills so Recently, I started my journey learning Full-Stack development in Oracle Next Education,
+also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
 
 # :computer:Tech Stack
 
@@ -31,7 +35,6 @@ Located in San Jose, Costa Rica, Strong knowledge in **front end** technologies 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
 ### 🎨Frameworks and Libraries
 
@@ -53,8 +56,8 @@ Located in San Jose, Costa Rica, Strong knowledge in **front end** technologies 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white)
