@@ -135,12 +135,12 @@ Currently down, working on it.
   <!--START_SECTION:waka-->
 
 ```text
-CSS          8 hrs 39 mins   █████████░░░░░░░░░░░░░░░░   35.48 %
-JavaScript   5 hrs 47 mins   ██████░░░░░░░░░░░░░░░░░░░   23.74 %
-HTML         4 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
-TypeScript   3 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-XML          35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+CSS          9 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   37.60 %
+JavaScript   5 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
+HTML         4 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
+TypeScript   3 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+XML          35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
