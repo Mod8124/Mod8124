@@ -70,15 +70,14 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 
-# 📚Blogs
+<!--# 📚Blogs
 
-Currently down, working on it.
+Currently down, working on it.-->
 
 # 🎓Goal
-
-> Well, if this year I get a job in
-> the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** from Costa Rica for personal reasons 💰 I can't right now.
-> I'd **love** to study **computer science** but in my country, there is nothing like that. xD
+Well, if this year I get a job in
+the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** from Costa Rica for personal reasons 💰 I can't right now.
+I'd **love** to study **computer science** but in my country, there is nothing like that. xD
 
 # :musical_note:Listening to
 
@@ -93,7 +92,7 @@ Currently down, working on it.
 [![LinkedIn](https://img.shields.io/badge/linkedin-a9fef7?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/denis-mu%C3%B1oz-28323921a)
 [![Gmail](https://img.shields.io/badge/Gmail-fe428e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denisenriquebaca@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-543DE0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Mod812#8041)
-[![FrontMentor](./src/icons/frontendmentor-icon.svg)](https://www.frontendmentor.io/profile/Mod8124)
+[![FrontEndMentor](https://img.shields.io/badge/-FrontEnd%20Mentor-141321?style=for-the-badge&logo=FrontEndMentor&logoColor=white)](https://www.frontendmentor.io/profile/Mod8124)
 
 # 📅Activity Stats
 
