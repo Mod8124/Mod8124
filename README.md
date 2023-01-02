@@ -24,17 +24,7 @@ I have a passion for learning about innovative technologies, animations, best pr
 I like to challenge myself and improve my skills so recently, I started my journey learning Full-Stack development in Oracle Next Education,
 also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
 
-# :computer:Tech Stack
-
-### :fire:Programming and Markup Languages
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+# 🛠Tech Stack
 
 ### 🎨Frameworks and Libraries
 
@@ -46,18 +36,28 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-<br>
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
 
+### :fire:Programming and Markup Languages
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
+
 ### 🛢Databases, Hosting and Test
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white)
 
@@ -75,7 +75,7 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
 Currently down, working on it.-->
 
 # 🎓Goal
-Well, if this year I get a job in
+> Well, if this year I get a job in
 the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** from Costa Rica for personal reasons 💰 I can't right now.
 I'd **love** to study **computer science** but in my country, there is nothing like that. xD
 
@@ -151,7 +151,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
   <img alt="github contribution snake animation" src="https://github.com/Mod8124/Mod8124/blob/output/github-contribution-grid-snake.svg">
 </details>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=f52277&style=flat-square&logo" alt="back to top" /></a></p>
+<p align="end"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=f52277&style=flat-square&logo" alt="back to top" /></a></p>
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Inconsolata+Nerd+Font&size=30&pause=1000&color=f52277&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!;¡Gracias+por+visitar!" >
