@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font&size=45&duration=6000&pause=1000&weight=800&color=fff&background=5A37FF00&vCenter=true&width=460&height=60&lines=%F0%9F%91%8BHello+World!;%F0%9F%91%8B¡Hola+Mundo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font&size=45&duration=6000&pause=1000&weight=800&color=fff&background=5A37FF00&vCenter=true&width=460&height=45&lines=%F0%9F%91%8BHello+World!;%F0%9F%91%8B¡Hola+Mundo!)](https://git.io/typing-svg)
 <img src="./src/img/leaap.gif"  width="100%" styled="object:cover"></img>
 
 <table align="right">
@@ -41,16 +41,17 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
 
+
 ### :fire:Programming and Markup Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
 ### 🛢Databases, Hosting and Test
 
