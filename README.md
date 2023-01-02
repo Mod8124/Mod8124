@@ -81,13 +81,13 @@ Currently down, working on it.-->
 the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** from Costa Rica for personal reasons 💰 I can't right now.
 I'd **love** to study **computer science** but in my country, there is nothing like that. xD
 
-# 🏆Motivation Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=If%20you%20dont'%20take%20risks%20you%20you%20can't%20create%20a%20future.&author=Monkey%20D.%20Luffy)](https://github.com/piyushsuthar/github-readme-quotes)
-
 # :musical_note:Listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=a9fef7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&redirect=true)
+
+# 🏆Motivation Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=If%20you%20dont'%20take%20risks%20you%20you%20can't%20create%20a%20future.&author=Monkey%20D.%20Luffy)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 # 📅Activity Stats
