@@ -151,7 +151,8 @@ HTML         12 mins         █░░░░░░░░░░░░░░░░
 
 <details>
   <summary>🐍 Contribution Snake</summary>
-  <img alt="github contribution snake animation" src="https://github.com/Mod8124/Mod8124/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://github.com/Mod8124/Mod8124/blob/output/github-contribution-grid-snake-dark.svg">
+  <!--https://raw.githubusercontent.com/Mod8124/Mod8124/output/github-contribution-grid-snake-dark.svg-->
 </details>
 
 <p align="end"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=f52277&style=flat-square&logo" alt="back to top" /></a></p>
