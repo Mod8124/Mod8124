@@ -86,7 +86,7 @@ Actualmente inactivo, trabajando en ello.
 
 # 🏆 Frase Motivacional
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Si%20tu%20no%20tomas%20retos,%20no%20puedes%20crear%20un%20futuro.&author=Monkey%20D.%20Luffy)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Habrá%20veces%20en%20las%20que%20el%20esforzarse%20quizás%20no%20sea%20suficiente.%20Pero%20aquellos%20que%20tuvieron%20éxito,%20se%20esforzaron.&author=Kamogawa%20Genji)](https://github.com/piyushsuthar/github-readme-quotes)
 
 # 🌎Donde encontrarme
 
