@@ -87,7 +87,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 
 # 🏆Motivation Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=If%20you%20dont'%20take%20risks%20you%20you%20can't%20create%20a%20future.&author=Monkey%20D.%20Luffy)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Not%20everyone%20who%20works%20hard%20is%20rewarded.%20But!%20All%20those%20who%20succeed%20have%20worked%20hard!&author=Kamogawa%20Genji)](https://github.com/piyushsuthar/github-readme-quotes)
 
 # 🌎Where to find me
 
