@@ -137,12 +137,12 @@ I'd **love** to study **computer science** but in my country, there is nothing l
   <!--START_SECTION:waka-->
 
 ```text
-Markdown     1 hr 26 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
-TypeScript   1 hr 21 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.29 %
-CSS          57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-HTML         50 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-Java         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Markdown     1 hr 26 mins    ██████░░░░░░░░░░░░░░░░░░░   24.35 %
+CSS          1 hr 24 mins    ██████░░░░░░░░░░░░░░░░░░░   23.76 %
+TypeScript   1 hr 21 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
+HTML         54 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+Java         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
