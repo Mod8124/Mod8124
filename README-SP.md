@@ -24,51 +24,72 @@ Me apasiona aprender sobre tecnologías innovadoras, animaciones, mejores práct
 Me gusta desafiarme a mí mismo y mejorar mis habilidades. Recientemente, comencé mi viaje aprendiendo desarrollo Full-Stack en Oracle Next Education.
 además, participé en la competencia <a href="https://worldskills.org/">WorldSkills</a> 2021.
 
-# :computer:Habilidades técnicas
+# 💻Habilidades técnicas
 
-### :fire:Lenguajes de programación y marcado
+<div>
+<details open>
+<summary><h3>🔥Lenguajes de programación y marcado</h3></summary>
+
+![JavaScript](https://img.shields.io/badge/javascript-141321?style=for-the-badge&logo=javascript&logoColor=a9fef7)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-141321?style=for-the-badge&logo=typescript&logoColor=fe428e)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-141321?style=for-the-badge&logo=html5&logoColor=ffd000)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-141321?style=for-the-badge&logo=css3&logoColor=a9fef7)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-141321?style=for-the-badge&logo=markdown&logoColor=fe428e)&nbsp;
+![PHP](https://img.shields.io/badge/php-141321?style=for-the-badge&logo=php&logoColor=ffd000)&nbsp;
+![Python](https://img.shields.io/badge/python-141321?style=for-the-badge&logo=python&logoColor=a9fef7)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-141321?style=for-the-badge&logo=node.js&logoColor=fe428e)&nbsp;  
+  
+</details>
+</div>
+
+<div>
+<details open>
+<summary><h3>🎨Frameworks y librerias</h3></summary>
+
+![Vue.js](https://img.shields.io/badge/vuejs-141321?style=for-the-badge&logo=vuedotjs&logoColor=a9fef7)&nbsp;
+![Angular](https://img.shields.io/badge/angular-141321?style=for-the-badge&logo=angular&logoColor=fe428e)&nbsp;
+![React](https://img.shields.io/badge/react-141321?style=for-the-badge&logo=react&logoColor=ffd000)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-141321?style=for-the-badge&logo=laravel&logoColor=a9fef7)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-141321?style=for-the-badge&logo=next.js&logoColor=fe428e)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-141321?style=for-the-badge&logo=express&logoColor=ffd000)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-141321?style=for-the-badge&logo=bootstrap&logoColor=a9fef7)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-141321?style=for-the-badge&logo=tailwind-css&logoColor=fe428e)&nbsp;
+![Styled Components](https://img.shields.io/badge/styled--components-141321?style=for-the-badge&logo=styled-components&logoColor=ffd000)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-141321?style=for-the-badge&logo=SASS&logoColor=a9fef7)&nbsp;
+![Webpack](https://img.shields.io/badge/webpack-141321?style=for-the-badge&logo=webpack&logoColor=fe428e)&nbsp;
+![Framer](https://img.shields.io/badge/Framer-141321?style=for-the-badge&logo=framer&logoColor=ffd000)&nbsp;
+
+</details>
+</div>
 
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+<div>
+<details open>
+<summary><h3>🛢Base de datos, Hospedaje, y Testeo</h3></summary>
 
-### 🎨Frameworks y librerias
+![MongoDB](https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=a9fef7)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-141321?style=for-the-badge&logo=mysql&logoColor=fe428e)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-141321?style=for-the-badge&logo=vercel&logoColor=ffd000)&nbsp;
+![Heroku](https://img.shields.io/badge/heroku-141321?style=for-the-badge&logo=heroku&logoColor=a9fef7)&nbsp;
+![Jest](https://img.shields.io/badge/-jest-141321?style=for-the-badge&logo=jest&logoColor=fe428e)&nbsp;
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-141321?style=for-the-badge&logo=testing-library&logoColor=ffd000)&nbsp;
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)&nbsp;
+</details>
+</div>
 
-### 🛢Base de datos, Hospedaje, y Testeo
+<div>
+<details open>
+<summary><h3>📏Herramientas de software y otros</h3></summary>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-141321?style=for-the-badge&logo=adobe%20illustrator&logoColor=a9fef7)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-141321?style=for-the-badge&logo=adobe%20photoshop&logoColor=fe428e)&nbsp;
+![Figma](https://img.shields.io/badge/figma-141321?style=for-the-badge&logo=figma&logoColor=ffd000)&nbsp;
+![Git](https://img.shields.io/badge/git-141321?style=for-the-badge&logo=git&logoColor=a9fef7)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-141321?style=for-the-badge&logo=Trello&logoColor=fe428e)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-141321?style=for-the-badge&logo=postman&logoColor=ffd000)&nbsp;
 
-### 📏Software Tools and others
-
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)&nbsp;
+</details>
+</div>
 
 
 <!-- # 📚Blogs
