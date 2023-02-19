@@ -78,11 +78,11 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
 
 Currently down, working on it.-->
 
-<!-- # 🎓Goal
+# 🎯Goal
 > Well, if this year I get a job in
-the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** from Costa Rica for personal reasons 💰 I can't right now.
+the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** for personal reasons 💰 I can't right now.
 I'd **love** to study **computer science** but in my country, there is nothing like that. xD 
- -->
+
 # :musical_note:Listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=a9fef7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&redirect=true)
