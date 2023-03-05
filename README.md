@@ -140,10 +140,9 @@ I'd **love** to study **computer science** but in my country, there is nothing l
   <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 18 mins   ██████████████████░░░░░░░   71.97 %
-JSON         29 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-Markdown     13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-TypeScript   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+JavaScript   1 hr 10 mins    ███████████████████░░░░░░   75.50 %
+JSON         12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+TypeScript   10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
 ```
 
 <!--END_SECTION:waka-->
