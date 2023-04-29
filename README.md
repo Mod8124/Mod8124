@@ -24,43 +24,47 @@ I have a passion for learning about innovative technologies, animations, best pr
 I like to challenge myself and improve my skills so recently, I started my journey learning Full-Stack development in Oracle Next Education,
 also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
 
-<div>
+
+<div align="center">
   <h1>🛠Tech Stack</h1>  
+  <br>
   
 <!--   [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,md,php,python,vue,react,angular,laravel,nextjs,nuxtjs,express,bootstrap,tailwind,sass,styledcomponents,webpack,mongo,mysql,heroku,vercel,jest,ai,ps,figma,git,postman)](https://skillicons.dev) -->
   
-![JavaScript](https://img.shields.io/badge/javascript-141321?style=for-the-badge&logo=javascript&logoColor=a9fef7)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-141321?style=for-the-badge&logo=typescript&logoColor=fe428e)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-141321?style=for-the-badge&logo=html5&logoColor=ffd000)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-141321?style=for-the-badge&logo=css3&logoColor=a9fef7)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-141321?style=for-the-badge&logo=markdown&logoColor=fe428e)&nbsp;
-![PHP](https://img.shields.io/badge/php-141321?style=for-the-badge&logo=php&logoColor=ffd000)&nbsp;
-![Python](https://img.shields.io/badge/python-141321?style=for-the-badge&logo=python&logoColor=a9fef7)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-141321?style=for-the-badge&logo=node.js&logoColor=fe428e)&nbsp; 
-![Vue.js](https://img.shields.io/badge/vuejs-141321?style=for-the-badge&logo=vuedotjs&logoColor=a9fef7)&nbsp;
-![Angular](https://img.shields.io/badge/angular-141321?style=for-the-badge&logo=angular&logoColor=fe428e)&nbsp;
-![React](https://img.shields.io/badge/react-141321?style=for-the-badge&logo=react&logoColor=ffd000)&nbsp;
-![Laravel](https://img.shields.io/badge/laravel-141321?style=for-the-badge&logo=laravel&logoColor=a9fef7)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-141321?style=for-the-badge&logo=next.js&logoColor=fe428e)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-141321?style=for-the-badge&logo=express&logoColor=ffd000)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-141321?style=for-the-badge&logo=bootstrap&logoColor=a9fef7)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-141321?style=for-the-badge&logo=tailwind-css&logoColor=fe428e)&nbsp;
-![Styled Components](https://img.shields.io/badge/styled--components-141321?style=for-the-badge&logo=styled-components&logoColor=ffd000)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-141321?style=for-the-badge&logo=SASS&logoColor=a9fef7)&nbsp;
-![Webpack](https://img.shields.io/badge/webpack-141321?style=for-the-badge&logo=webpack&logoColor=fe428e)&nbsp;
-![Framer](https://img.shields.io/badge/Framer-141321?style=for-the-badge&logo=framer&logoColor=ffd000)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=a9fef7)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-141321?style=for-the-badge&logo=mysql&logoColor=fe428e)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-141321?style=for-the-badge&logo=vercel&logoColor=ffd000)&nbsp;
-![Heroku](https://img.shields.io/badge/heroku-141321?style=for-the-badge&logo=heroku&logoColor=a9fef7)&nbsp;
-![Jest](https://img.shields.io/badge/-jest-141321?style=for-the-badge&logo=jest&logoColor=fe428e)&nbsp;
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-141321?style=for-the-badge&logo=testing-library&logoColor=ffd000)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-141321?style=for-the-badge&logo=adobe%20illustrator&logoColor=a9fef7)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-141321?style=for-the-badge&logo=adobe%20photoshop&logoColor=fe428e)&nbsp;
-![Figma](https://img.shields.io/badge/figma-141321?style=for-the-badge&logo=figma&logoColor=ffd000)&nbsp;
-![Git](https://img.shields.io/badge/git-141321?style=for-the-badge&logo=git&logoColor=a9fef7)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-141321?style=for-the-badge&logo=Trello&logoColor=fe428e)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-141321?style=for-the-badge&logo=postman&logoColor=ffd000)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-141321?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-141321?style=for-the-badge&logo=typescript&logoColor=23007ACC)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-141321?style=for-the-badge&logo=html5&logoColor=23E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-141321?style=for-the-badge&logo=css3&logoColor=%23007ACC)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-141321?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/php-141321?style=for-the-badge&logo=php&logoColor=23777BB4)&nbsp;
+![Python](https://img.shields.io/badge/python-141321?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-141321?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp; 
+![Vue.js](https://img.shields.io/badge/vuejs-141321?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
+![Angular](https://img.shields.io/badge/angular-141321?style=for-the-badge&logo=angular&logoColor=%23DD0031)&nbsp;
+![React](https://img.shields.io/badge/react-141321?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-141321?style=for-the-badge&logo=laravel&logoColor=23FF2D20)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-141321?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-141321?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-141321?style=for-the-badge&logo=bootstrap&logoColor=23563D7C)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-141321?style=for-the-badge&logo=tailwind-css&logoColor=2338B2AC)&nbsp;
+![Styled Components](https://img.shields.io/badge/styled--components-141321?style=for-the-badge&logo=styled-components&logoColor=DB7093?)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-141321?style=for-the-badge&logo=SASS&logoColor=hotpink)&nbsp;
+![Webpack](https://img.shields.io/badge/webpack-141321?style=for-the-badge&logo=webpack&logoColor=238DD6F9)&nbsp;
+![Framer](https://img.shields.io/badge/Framer-141321?style=for-the-badge&logo=framer&logoColor=blue)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=234ea94b)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-141321?style=for-the-badge&logo=mysql&logoColor=2300f)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-141321?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Heroku](https://img.shields.io/badge/heroku-141321?style=for-the-badge&logo=heroku&logoColor=%23563D7C)&nbsp;
+![Jest](https://img.shields.io/badge/-jest-141321?style=for-the-badge&logo=jest&logoColor=%23C21325)&nbsp;
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-141321?style=for-the-badge&logo=testing-library&logoColor=23E33332?)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-141321?style=for-the-badge&logo=adobe%20illustrator&logoColor=23FF9A00)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-141321?style=for-the-badge&logo=adobe%20photoshop&logoColor=2331A8FF)&nbsp;
+![Figma](https://img.shields.io/badge/figma-141321?style=for-the-badge&logo=figma&logoColor=23F24E1E)&nbsp;
+![Git](https://img.shields.io/badge/git-141321?style=for-the-badge&logo=git&logoColor=23F05033)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-141321?style=for-the-badge&logo=Trello&logoColor=%23026AA7)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-141321?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
+
+<br>
 
 <!-- ### 🔥Programming and Markup Languages
   
@@ -111,20 +115,20 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
  -->
 </div>
 
-# 🎯Goal
+## 🎯Goal
 > Well, if this year I get a job in
 the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** for personal reasons 💰 I can't right now.
 I'd **love** to study **computer science** but in my country, there is nothing like that. xD 
 
-# :musical_note:Listening to
+## :musical_note:Listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=a9fef7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&redirect=true)
 
-# 🏆Motivation Quote
+## 🏆Motivation Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Not%20everyone%20who%20works%20hard%20is%20rewarded.%20But!%20All%20those%20who%20succeed%20have%20worked%20hard!&author=Kamogawa%20Genji)](https://github.com/piyushsuthar/github-readme-quotes)
 
-# 🌎Where to find me
+## 🌎Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-a9fef7?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/denis-mu%C3%B1oztech)
 [![Gmail](https://img.shields.io/badge/Gmail-fe428e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denisenriquebaca@gmail.com)
@@ -132,8 +136,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 [![CodePen](https://img.shields.io/badge/Codepen-a9fef7?style=for-the-badge&logo=codepen&logoColor=141321)](https://codepen.io/mod8124)
 [![FrontEndMentor](https://img.shields.io/badge/-FrontEnd%20Mentor-141321?style=for-the-badge&logo=FrontEndMentor&logoColor=white)](https://www.frontendmentor.io/profile/Mod8124)
 
-
-# 📅Activity Stats
+## 📅Activity Stats
 
 <details>
 <summary>
