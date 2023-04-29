@@ -24,6 +24,8 @@ I have a passion for learning about innovative technologies, animations, best pr
 I like to challenge myself and improve my skills so recently, I started my journey learning Full-Stack development in Oracle Next Education,
 also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
 
+<br>
+
 <div>
   <h1>🛠Tech Stack</h1>  
   
