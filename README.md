@@ -111,20 +111,20 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
  -->
 </div>
 
-## 🎯Goal
+# 🎯Goal
 > Well, if this year I get a job in
 the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** for personal reasons 💰 I can't right now.
 I'd **love** to study **computer science** but in my country, there is nothing like that. xD 
 
-## :musical_note:Listening to
+# :musical_note:Listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=a9fef7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&redirect=true)
 
-## 🏆Motivation Quote
+# 🏆Motivation Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Not%20everyone%20who%20works%20hard%20is%20rewarded.%20But!%20All%20those%20who%20succeed%20have%20worked%20hard!&author=Kamogawa%20Genji)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## 🌎Where to find me
+# 🌎Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-a9fef7?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/denis-mu%C3%B1oztech)
 [![Gmail](https://img.shields.io/badge/Gmail-fe428e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denisenriquebaca@gmail.com)
@@ -132,7 +132,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 [![CodePen](https://img.shields.io/badge/Codepen-a9fef7?style=for-the-badge&logo=codepen&logoColor=141321)](https://codepen.io/mod8124)
 [![FrontEndMentor](https://img.shields.io/badge/-FrontEnd%20Mentor-141321?style=for-the-badge&logo=FrontEndMentor&logoColor=white)](https://www.frontendmentor.io/profile/Mod8124)
 
-## 📅Activity Stats
+# 📅Activity Stats
 
 <details>
 <summary>
