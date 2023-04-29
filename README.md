@@ -24,9 +24,12 @@ I have a passion for learning about innovative technologies, animations, best pr
 I like to challenge myself and improve my skills so recently, I started my journey learning Full-Stack development in Oracle Next Education,
 also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
 
-# 🛠Tech Stack
+<div>
+  <h1>🛠Tech Stack</h1>  
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,md,php,python,vue,react,angular,laravel,nextjs,nuxtjs,express,bootstrap,tailwind,sass,styledcomponents,webpack,mongo,mysql,heroku,vercel,jest,ai,ps,figma,git,postman)](https://skillicons.dev)
 
-### 🔥Programming and Markup Languages
+<!-- ### 🔥Programming and Markup Languages
   
 ![JavaScript](https://img.shields.io/badge/javascript-141321?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-141321?style=for-the-badge&logo=typescript&logoColor=23007ACC)&nbsp;
@@ -72,7 +75,8 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
 ![Git](https://img.shields.io/badge/git-141321?style=for-the-badge&logo=git&logoColor=23F05033)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-141321?style=for-the-badge&logo=Trello&logoColor=%23026AA7)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-141321?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
-
+ -->
+</div>
 
 <!--# 📚Blogs
 
