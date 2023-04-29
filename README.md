@@ -25,7 +25,7 @@ I like to challenge myself and improve my skills so recently, I started my journ
 also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
 
 
-<div align="center">
+<div>
   <h1>🛠Tech Stack</h1>  
 <!--   [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,md,php,python,vue,react,angular,laravel,nextjs,nuxtjs,express,bootstrap,tailwind,sass,styledcomponents,webpack,mongo,mysql,heroku,vercel,jest,ai,ps,figma,git,postman)](https://skillicons.dev) -->
   
