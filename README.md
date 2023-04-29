@@ -31,9 +31,6 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
   
 ![JavaScript](https://img.shields.io/badge/javascript-141321?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-141321?style=for-the-badge&logo=typescript&logoColor=23007ACC)
-![HTML5](https://img.shields.io/badge/html5-141321?style=for-the-badge&logo=html5&logoColor=23E34F26)
-![CSS3](https://img.shields.io/badge/css3-141321?style=for-the-badge&logo=css3&logoColor=%23007ACC)
-![Markdown](https://img.shields.io/badge/markdown-141321?style=for-the-badge&logo=markdown&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-141321?style=for-the-badge&logo=php&logoColor=23777BB4)
 ![Python](https://img.shields.io/badge/python-141321?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-141321?style=for-the-badge&logo=node.js&logoColor=6DA55F)
@@ -42,7 +39,6 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
 ![React](https://img.shields.io/badge/react-141321?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-141321?style=for-the-badge&logo=laravel&logoColor=23FF2D20)
 ![Next JS](https://img.shields.io/badge/Next-141321?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Nuxtjs](https://img.shields.io/badge/Nuxt-141321?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Express.js](https://img.shields.io/badge/express.js-141321?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-141321?style=for-the-badge&logo=bootstrap&logoColor=23563D7C)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-141321?style=for-the-badge&logo=tailwind-css&logoColor=2338B2AC)
