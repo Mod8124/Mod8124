@@ -42,6 +42,7 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
 ![React](https://img.shields.io/badge/react-141321?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-141321?style=for-the-badge&logo=laravel&logoColor=23FF2D20)
 ![Next JS](https://img.shields.io/badge/Next-141321?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Nuxtjs](https://img.shields.io/badge/Nuxt-141321?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Express.js](https://img.shields.io/badge/express.js-141321?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-141321?style=for-the-badge&logo=bootstrap&logoColor=23563D7C)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-141321?style=for-the-badge&logo=tailwind-css&logoColor=2338B2AC)
