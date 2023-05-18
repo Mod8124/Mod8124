@@ -163,7 +163,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 </summary>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mod8124&theme=radical&column=7" width="100%"></img>
+<img src="https://github-profile-trophy.vercel.app/?username=mod8124&theme=radical&column=7&rank=-?" width="100%"></img>
 </div>
 </details>
 
