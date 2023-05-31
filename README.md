@@ -171,7 +171,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 
 <details>
   <summary>
-      ⚗️ Stats Leetcode
+      ⚗️ Stats LeetCode
   </summary>
       <br>
       <img src="https://leetcard.jacoblin.cool/Mod8124?theme=dark">
