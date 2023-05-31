@@ -157,6 +157,8 @@ I'd **love** to study **computer science** but in my country, there is nothing l
  
 </details>
 
+
+
 <details>
 <summary>
 🏆 Achievements
@@ -165,6 +167,15 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mod8124&theme=radical&column=7&rank=-?" width="100%"></img>
 </div>
+</details>
+
+<details>
+  <summary>
+      ⚗️ Stats Leetcode
+  </summary>
+      <br>
+      <img src="https://leetcard.jacoblin.cool/Mod8124?theme=dark">
+      <p><b>Note:</b> Self-imposed challenge: one medium leetcode for every 10 easy, and one hard task for every 10 medium.</p>
 </details>
 
 <details>
