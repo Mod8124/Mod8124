@@ -53,6 +53,7 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
 ![MongoDB](https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=234ea94b)
 ![MySQL](https://img.shields.io/badge/mysql-141321?style=for-the-badge&logo=mysql&logoColor=2300f)
 ![Vercel](https://img.shields.io/badge/vercel-141321?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-141321.svg?style=for-the-badge&logo=docker&logoColor=230db7ed)
 ![Heroku](https://img.shields.io/badge/heroku-141321?style=for-the-badge&logo=heroku&logoColor=%23563D7C)
 ![Jest](https://img.shields.io/badge/-jest-141321?style=for-the-badge&logo=jest&logoColor=%23C21325)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-141321?style=for-the-badge&logo=testing-library&logoColor=23E33332?)
