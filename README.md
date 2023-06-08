@@ -50,7 +50,6 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
 ![SASS](https://img.shields.io/badge/SASS-141321?style=for-the-badge&logo=SASS&logoColor=hotpink)
 ![Webpack](https://img.shields.io/badge/webpack-141321?style=for-the-badge&logo=webpack&logoColor=238DD6F9)
 ![Framer](https://img.shields.io/badge/Framer-141321?style=for-the-badge&logo=framer&logoColor=blue)
-![Docker](https://img.shields.io/badge/docker-141321.svg?style=for-the-badge&logo=docker&logoColor=230db7ed)
 ![MongoDB](https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=234ea94b)
 ![MySQL](https://img.shields.io/badge/mysql-141321?style=for-the-badge&logo=mysql&logoColor=2300f)
 ![Vercel](https://img.shields.io/badge/vercel-141321?style=for-the-badge&logo=vercel&logoColor=white)
