@@ -184,11 +184,11 @@ I'd **love** to study **computer science** but in my country, there is nothing l
   <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 30 mins   ███████████░░░░░░░░░░░░░░   44.23 %
-TypeScript   2 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
-HTML         1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-SCSS         1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-Python       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+TypeScript   4 hrs 12 mins   ████████████████████▓░░░░   82.59 %
+Docker       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+JSON         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+TSConfig     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
