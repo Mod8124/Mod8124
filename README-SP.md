@@ -18,11 +18,11 @@
 
 ### Hola, Soy Denis, Desarrollador Front End & Diseñador Web
 
-Soy un Desarrollador Front End autodidacta que comenzó como Diseñador Web, ubicado en Costa Rica.
+Soy un Desarrollador Web autodidacta que comenzó como Diseñador Web, ubicado en Costa Rica.
 Me apasiona aprender sobre tecnologías innovadoras, animaciones, mejores prácticas y código limpio.
 
-Me gusta desafiarme a mí mismo y mejorar mis habilidades. Recientemente, comencé mi viaje aprendiendo desarrollo Full-Stack en Oracle Next Education.
-además, participé en la competencia <a href="https://worldskills.org/">WorldSkills</a> 2021.
+Me gusta desafiarme a mí mismo y mejorar mis habilidades. En Enero de 2024, empezare mi viaje como ingeniero de software. También
+participé en la competencia <a href="https://worldskills.org/">WorldSkills</a> 2021.
 
 # 🧮Habilidades técnicas
 
@@ -34,6 +34,7 @@ además, participé en la competencia <a href="https://worldskills.org/">WorldSk
 ![PHP](https://img.shields.io/badge/php-141321?style=for-the-badge&logo=php&logoColor=ffd000)&nbsp;
 ![Python](https://img.shields.io/badge/python-141321?style=for-the-badge&logo=python&logoColor=a9fef7)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-141321?style=for-the-badge&logo=node.js&logoColor=fe428e)&nbsp; 
+![Nuxtjs](https://img.shields.io/badge/Nuxt-141321?style=for-the-badge&logo=nuxtdotjs&logoColor=a9fef7)&nbsp;
 ![Vue.js](https://img.shields.io/badge/vuejs-141321?style=for-the-badge&logo=vuedotjs&logoColor=a9fef7)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-141321?style=for-the-badge&logo=angular&logoColor=fe428e)&nbsp;
 ![React](https://img.shields.io/badge/react-141321?style=for-the-badge&logo=react&logoColor=ffd000)&nbsp;
@@ -177,7 +178,7 @@ además, participé en la competencia <a href="https://worldskills.org/">WorldSk
 </summary>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mod8124&theme=radical&column=7" width="100%"></img>
+<img src="https://github-profile-trophy.vercel.app/?username=mod8124&theme=radical&column=7&rank=-?,-C" width="100%"></img>
 </div>
 </details>
 
