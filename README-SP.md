@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-### Hola, Soy Denis, Desarrollador Front End & Diseñador Web
+### Hola, Soy Denis, un Desarrollador Web & Diseñador Web
 
 Soy un Desarrollador Web autodidacta que comenzó como Diseñador Web, ubicado en Costa Rica.
 Me apasiona aprender sobre tecnologías innovadoras, animaciones, mejores prácticas y código limpio.
