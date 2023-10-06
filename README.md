@@ -16,13 +16,13 @@
   </tr>
 </table>
 
-### Hey There, I'm Denis , Front End Developer & Web Designer
+### Hey There, I'm Denis, a Web Developer and web Designer
 
-I'm a self-taught Front End Developer who started as a Web Designer, based in Costa Rica.
+I'm a self-taught Web Developer who started as a Web Designer, based in Costa Rica.
 I have a passion for learning about innovative technologies, animations, best practices, and clean code.
 
-I like to challenge myself and improve my skills so recently, I started my journey learning Full-Stack development in Oracle Next Education,
-also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
+I enjoy challenging myself and improving my skills. In January 2024, I will be embarking on a journey as a software engineering student.
+Additionally, I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
 
 
 <div>
@@ -39,6 +39,7 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
 ![NodeJS](https://img.shields.io/badge/node.js-141321?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![Vue.js](https://img.shields.io/badge/vuejs-141321?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Angular](https://img.shields.io/badge/angular-141321?style=for-the-badge&logo=angular&logoColor=%23DD0031)
+![NestJS](https://img.shields.io/badge/nestjs-141321?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)
 ![React](https://img.shields.io/badge/react-141321?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-141321?style=for-the-badge&logo=laravel&logoColor=23FF2D20)
 ![Next JS](https://img.shields.io/badge/Next-141321?style=for-the-badge&logo=next.js&logoColor=white)
@@ -56,6 +57,7 @@ also, I participated in the <a href="https://worldskills.org/">WorldSkills</a> c
 ![Heroku](https://img.shields.io/badge/heroku-141321?style=for-the-badge&logo=heroku&logoColor=%23563D7C)
 ![Jest](https://img.shields.io/badge/-jest-141321?style=for-the-badge&logo=jest&logoColor=%23C21325)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-141321?style=for-the-badge&logo=testing-library&logoColor=23E33332?)
+![Docker](https://img.shields.io/badge/docker-141321.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-141321?style=for-the-badge&logo=adobe%20illustrator&logoColor=23FF9A00)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-141321?style=for-the-badge&logo=adobe%20photoshop&logoColor=2331A8FF)
 ![Figma](https://img.shields.io/badge/figma-141321?style=for-the-badge&logo=figma&logoColor=23F24E1E)
@@ -165,7 +167,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 </summary>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mod8124&theme=radical&column=7&rank=-?" width="100%"></img>
+<img src="https://github-profile-trophy.vercel.app/?username=mod8124&theme=radical&column=7&rank=-?,-C" width="100%"></img>
 </div>
 </details>
 
