@@ -1,6 +1,7 @@
 <div id="top"></div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font&size=45&duration=6000&pause=1000&weight=800&color=fff&background=5A37FF00&vCenter=true&width=460&height=45&lines=%F0%9F%91%8BHello+World!;%F0%9F%91%8B¡Hola+Mundo!)](https://git.io/typing-svg)
+
 <img src="./src/img/leaap.gif"  width="100%" styled="object:cover"></img>
 
 <table align="right">
@@ -27,7 +28,8 @@ Additionally, I participated in the <a href="https://worldskills.org/">WorldSkil
 
 <div>
   <h1>🧮Tech Stack</h1>  
-<!--   [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,md,php,python,vue,react,angular,laravel,nextjs,nuxtjs,express,bootstrap,tailwind,sass,styledcomponents,webpack,mongo,mysql,heroku,vercel,jest,ai,ps,figma,git,postman)](https://skillicons.dev) -->
+  
+<!--[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,md,php,python,vue,react,angular,laravel,nextjs,nuxtjs,express,bootstrap,tailwind,sass,styledcomponents,webpack,mongo,mysql,heroku,vercel,jest,ai,ps,figma,git,postman)](https://skillicons.dev)-->
   
 ![JavaScript](https://img.shields.io/badge/javascript-141321?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-141321?style=for-the-badge&logo=typescript&logoColor=23007ACC)
@@ -137,6 +139,8 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 
 # 📅Activity Stats
 
+[![Waka Readme](https://github.com/Mod8124/Mod8124/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/Mod8124/Mod8124/actions/workflows/waka-readme.yml)&nbsp;[![Snake](https://github.com/Mod8124/Mod8124/actions/workflows/main.yml/badge.svg)](https://github.com/Mod8124/Mod8124/actions/workflows/main.yml)
+
 <details>
 <summary>
 🔥 Streak Stats
@@ -182,6 +186,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 
 <details>
   <summary>📊 Weekly development </summary>
+    
   <br>
   <!--START_SECTION:waka-->
 
@@ -190,13 +195,13 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-   <p><b>*Note:</b> Top languages does not indicate my skill level or anything like that, it's only a metric xD.</p>
+<p><b>*Note:</b> Top languages do not indicate my skill level or anything like that, it's only a metric xD.</p>
 </details>
 
 <details>
   <summary>🐍 Contribution Snake</summary>
-  <img alt="github contribution snake animation" src="https://github.com/Mod8124/Mod8124/blob/output/github-contribution-grid-snake-dark.svg">
-  <!--https://raw.githubusercontent.com/Mod8124/Mod8124/output/github-contribution-grid-snake-dark.svg-->
+  
+![GitHub contribution snake animation](https://github.com/Mod8124/Mod8124/blob/output/github-contribution-grid-snake-dark.svg)&nbsp;
 </details>
 
 <p align="end"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=f52277&style=flat-square&logo" alt="back to top" /></a></p>
