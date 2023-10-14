@@ -211,3 +211,5 @@ No activity tracked
     </a>
 </div>
 <img src="https://i.pinimg.com/originals/6c/cc/20/6ccc207a075bbfdfb9749a702d563993.gif" width="100%"></img>
+
+<!--![Visitor Count](https://profile-counter.glitch.me/Mod8124/count.svg)-->
