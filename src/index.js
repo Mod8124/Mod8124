@@ -17,7 +17,7 @@ const options = {
 
 const readme = (lng) => {
  return  ` 
-  ${lng === "En" ? `🕓 Updated on ` :`🕓 Actualizado en`} ${date.toLocaleDateString(language, options).replace("CST", "GMT-6")} 
+  ${lng === "En" ? `🕓 Updated on ` :`🕓 Actualizado en`} ${date.toLocaleDateString(lng, options).replace("CST", "GMT-6")} 
   `
 }
 
