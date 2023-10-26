@@ -3,7 +3,7 @@ const html = fs.readFileSync('README.md', 'utf8');
 
 const readme = (lng) => {
  return  ` 
-  ${lng === "En" ? `🕓 Updated on ` :`🕓 Actualizado en`} ${new Date().toString().replace("(Central Standard Time)", "")} 
+  ${lng === "En" ? `🕓 Updated on ` :`🕓 Actualizado en`} ${new Date().toString().replace("-0600 (Central Standard Time)", "")} 
   `
 }
 
