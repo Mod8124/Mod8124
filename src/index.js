@@ -1,9 +1,25 @@
 const fs = require('fs');
 const html = fs.readFileSync('README.md', 'utf8');
 
+const timeZone = 'America/Costa_Rica'; 
+const date = new Date();
+const options = {
+  timeZone,
+  weekday: 'short',
+  day: 'numeric',
+  month: 'short',
+  hour: 'numeric',
+  minute: 'numeric',
+  year: 'numeric',
+  timeZoneName: 'short', 
+  hour12: false
+};
+
 const readme = (lng) => {
+ const language = lng === "En" || "Es"
+
  return  ` 
-  ${lng === "En" ? `🕓 Updated on ` :`🕓 Actualizado en`} ${new Date().toUTCString()}
+  ${lng === "En" ? `🕓 Updated on ` :`🕓 Actualizado en`} ${date.toLocaleDateString(language, options).replace("CST", "GMT-6")} 
   `
 }
 
