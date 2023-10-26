@@ -139,7 +139,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 
 # 📅Activity Stats
 
-[![Waka Readme](https://github.com/Mod8124/Mod8124/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/Mod8124/Mod8124/actions/workflows/waka-readme.yml)&nbsp;[![Snake](https://github.com/Mod8124/Mod8124/actions/workflows/main.yml/badge.svg)](https://github.com/Mod8124/Mod8124/actions/workflows/main.yml)
+<!-- [![Waka Readme](https://github.com/Mod8124/Mod8124/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/Mod8124/Mod8124/actions/workflows/waka-readme.yml)&nbsp;[![Snake](https://github.com/Mod8124/Mod8124/actions/workflows/main.yml/badge.svg)](https://github.com/Mod8124/Mod8124/actions/workflows/main.yml)-->
 
 <details>
 <summary>
