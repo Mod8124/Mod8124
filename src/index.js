@@ -3,7 +3,7 @@ const html = fs.readFileSync('README.md', 'utf8');
 
 const readme = (lng) => {
  return  ` 
-  ${lng === "En" ? `🕓 Updated on ` :`🕓 Actualizado en`} ${new Date().toUTCString())} 
+  ${lng === "En" ? `🕓 Updated on ` :`🕓 Actualizado en`} ${new Date().toUTCString()}
   `
 }
 
