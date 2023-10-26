@@ -1,0 +1,25 @@
+name: Update Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 */3 * *"
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '18'
+    - name: Update README.md
+      run: node src/index.js 
+      run: |
+          git config user.name  Mod8124
+          git config user.email denisenriquebaca@gmail.com
+          git commit -am "bot: update README.md automatically"
+          git push origin main

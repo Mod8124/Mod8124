@@ -5,8 +5,8 @@ on:
   schedule:
     # Runs at 12am UTC
     # - cron: "* */12 * * *"
-    # Runs every week at 12am UTF on Sunday
-    - cron: "0 0 * * 0"
+    # Runs every 3 days
+    - cron: "0 0 */3 * *"
 
 jobs:
   update-readme:

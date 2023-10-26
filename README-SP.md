@@ -150,6 +150,8 @@ participé en la competencia <a href="https://worldskills.org/">WorldSkills</a> 
 
 # 📅Estadísticas de Actividad
 
+[![Waka Readme](https://github.com/Mod8124/Mod8124/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/Mod8124/Mod8124/actions/workflows/waka-readme.yml)&nbsp;[![Snake](https://github.com/Mod8124/Mod8124/actions/workflows/main.yml/badge.svg)](https://github.com/Mod8124/Mod8124/actions/workflows/main.yml)
+
 <details>
 <summary>
 🔥 Estadísticas de racha
@@ -183,6 +185,15 @@ participé en la competencia <a href="https://worldskills.org/">WorldSkills</a> 
 </details>
 
 <details>
+  <summary>
+      ⚗️ Estadísticas de LeetCode
+  </summary>
+      <br>
+      <img src="https://leetcard.jacoblin.cool/Mod8124?theme=dark">
+      <p><b>Note:</b> Self-imposed challenge: one medium leetcode for every 10 easy, and one hard task for every 10 medium.</p>
+</details>
+
+<details>
   <summary>📊 Desarrollo semanal </summary>
   <br>
   <!--START_SECTION:waka-->
@@ -212,3 +223,7 @@ JSON         42 mins         ▓░░░░░░░░░░░░░░░░
     </a>
 </div>
 <img src="https://i.pinimg.com/originals/6c/cc/20/6ccc207a075bbfdfb9749a702d563993.gif" width="100%"></img>
+
+<!-- start lastUpdate --> 
+  🕓 Updated on  Thu, 26 Oct 2023 19:58:48 GMT 
+  <!-- end lastUpdate -->
