@@ -16,8 +16,6 @@ const options = {
 };
 
 const readme = (lng) => {
- const language = lng === "En" || "Es"
-
  return  ` 
   ${lng === "En" ? `🕓 Updated on ` :`🕓 Actualizado en`} ${date.toLocaleDateString(language, options).replace("CST", "GMT-6")} 
   `
