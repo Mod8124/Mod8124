@@ -22,7 +22,7 @@
 I'm a self-taught Web Developer who started as a Web Designer, based in Costa Rica.
 I have a passion for learning about innovative technologies, animations, best practices, and clean code.
 
-I enjoy challenging myself and improving my skills. In January 2024, I will be embarking on a journey as a software engineering student.
+I enjoy challenging myself and improving my skills. In January, I will be embarking on a journey as a software engineering student.
 Additionally, I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
 
 
