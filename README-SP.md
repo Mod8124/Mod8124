@@ -191,11 +191,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 31 mins   █████████████████████░░░░   84.65 %
-HTML         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Markdown     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-CSS          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
@@ -217,7 +213,7 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
 <img src="https://i.pinimg.com/originals/6c/cc/20/6ccc207a075bbfdfb9749a702d563993.gif" width="100%"></img>
 
 <!-- start lastUpdate --> 
-  🕓 Actualizado en mié, 27 dic 2023, 18:38 GMT-6 
+  🕓 Actualizado en sáb, 30 dic 2023, 18:42 GMT-6 
   <!-- end lastUpdate -->
 
 <!--![Visitor Count](https://profile-counter.glitch.me/Mod8124/count.svg)-->
