@@ -213,7 +213,7 @@ No activity tracked
 <img src="https://i.pinimg.com/originals/6c/cc/20/6ccc207a075bbfdfb9749a702d563993.gif" width="100%"></img>
 
 <!-- start lastUpdate --> 
-  🕓 Actualizado en sáb, 6 ene 2024, 18:43 GMT-6 
+  🕓 Actualizado en mar, 9 ene 2024, 18:40 GMT-6 
   <!-- end lastUpdate -->
 
 <!--![Visitor Count](https://profile-counter.glitch.me/Mod8124/count.svg)-->
