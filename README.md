@@ -191,11 +191,11 @@ I'd **love** to study **computer science** but in my country, there is nothing l
   <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 58 mins    ███████████████▓░░░░░░░░░   62.45 %
-HTML         32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-JavaScript   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Text         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Python       2 hrs 46 mins   █████████████████░░░░░░░░   68.64 %
+JavaScript   47 mins         █████░░░░░░░░░░░░░░░░░░░░   19.62 %
+Text         28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
