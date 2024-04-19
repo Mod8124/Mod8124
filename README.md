@@ -191,10 +191,9 @@ I'd **love** to study **computer science** but in my country, there is nothing l
   <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 52 mins   ██████████████████████▓░░   90.64 %
-Text         22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python       2 hrs 8 mins    █████████████████████▒░░░   85.76 %
+Text         20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
