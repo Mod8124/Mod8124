@@ -191,8 +191,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
   <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 20 mins   ████████████████████████▓   98.07 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
