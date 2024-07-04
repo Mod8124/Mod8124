@@ -191,7 +191,7 @@ I'd **love** to study **computer science** but in my country, there is nothing l
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
@@ -213,7 +213,7 @@ No activity tracked
 <img src="https://i.pinimg.com/originals/6c/cc/20/6ccc207a075bbfdfb9749a702d563993.gif" width="100%"></img>
 
 <!-- start lastUpdate --> 
-  🕓 Actualizado en dom, 30 jun 2024, 18:49 GMT-6 
+  🕓 Actualizado en mié, 3 jul 2024, 18:43 GMT-6 
   <!-- end lastUpdate -->
 
 <!--![Visitor Count](https://profile-counter.glitch.me/Mod8124/count.svg)-->
