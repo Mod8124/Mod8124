@@ -123,7 +123,8 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 
 # :musical_note:Listening to
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=a9fef7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&redirect=true)
+[![https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=a9fef7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=yooooooocr&redirect=true)
+
 
 # 🏆Motivation Quote
 
