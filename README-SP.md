@@ -123,7 +123,8 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 
 # :musical_note:Listening to
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=a9fef7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yooooooocr&redirect=true)
+[![https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=a9fef7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=yooooooocr&redirect=true)
+
 
 # 🏆Motivation Quote
 
@@ -213,7 +214,7 @@ No activity tracked
 <img src="https://i.pinimg.com/originals/6c/cc/20/6ccc207a075bbfdfb9749a702d563993.gif" width="100%"></img>
 
 <!-- start lastUpdate --> 
-  🕓 Actualizado en jue, 3 oct 2024, 18:51 GMT-6 
+  🕓 Actualizado en dom, 6 oct 2024, 18:53 GMT-6 
   <!-- end lastUpdate -->
 
 <!--![Visitor Count](https://profile-counter.glitch.me/Mod8124/count.svg)-->
