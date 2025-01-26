@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font&size=45&duration=6000&pause=1000&weight=800&color=fff&background=5A37FF00&vCenter=true&width=460&height=45&lines=%F0%9F%91%8BHello+World!;%F0%9F%91%8B¡Hola+Mundo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font&size=45&duration=6000&pause=1000&weight=800&color=f52277&background=5A37FF00&vCenter=true&width=460&height=45&lines=Hello+World!;¡Hola+Mundo!)](https://git.io/typing-svg)
 
 <img src="./src/img/leaap.gif"  width="100%" styled="object:cover"></img>
 
@@ -17,13 +17,12 @@
   </tr>
 </table>
 
-### Hey There, I'm Denis, a Web Developer and web Designer
+### Hey There, I'm Denis, a Software Engineer student & Web Designer
 
-I'm a self-taught Web Developer who started as a Web Designer, based in Costa Rica.
+I'm a swd student who started as a Web Designer, based in Costa Rica.
 I have a passion for learning about innovative technologies, animations, best practices, and clean code.
 
-I enjoy challenging myself and improving my skills. In January, I will be embarking on a journey as a software engineering student.
-Additionally, I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
+I enjoy challenging myself and improving my skills. I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
 
 
 <div>
@@ -116,10 +115,10 @@ Additionally, I participated in the <a href="https://worldskills.org/">WorldSkil
  -->
 </div>
 
-# 🎯Goal
+<!-- # 🎯Goal
 > Well, if this year I get a job in
 the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** for personal reasons 💰 I can't right now.
-I'd **love** to study **computer science** but in my country, there is nothing like that. xD 
+I'd **love** to study **computer science** but in my country, there is nothing like that. xD -->
 
 # :musical_note:Listening to
 
