@@ -20,7 +20,7 @@
 ### Hey There, I'm Denis, a Software Engineer student & Web Designer
 
 I'm a swd student who started as a Web Designer, based in Costa Rica.
-I have a passion for learning about innovative technologies, animations, best practices, and clean code.
+I have a passion for learning about innovative technologies, animations, best practices. Currently working at Amazon in the Global AI team.
 
 I enjoy challenging myself and improving my skills. I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
 
@@ -213,7 +213,7 @@ No activity tracked
 <img src="https://i.pinimg.com/originals/6c/cc/20/6ccc207a075bbfdfb9749a702d563993.gif" width="100%"></img>
 
 <!-- start lastUpdate --> 
-  🕓 Actualizado en dom, 9 feb 2025, 18:53 GMT-6 
+  🕓 Actualizado en mié, 12 feb 2025, 18:52 GMT-6 
   <!-- end lastUpdate -->
 
 <!--![Visitor Count](https://profile-counter.glitch.me/Mod8124/count.svg)-->
