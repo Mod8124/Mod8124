@@ -191,7 +191,9 @@ I'd **love** to study **computer science** but in my country, there is nothing l
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML          0 secs          █████████████▓░░░░░░░░░░░   54.09 %
+Image (svg)   0 secs          █████████░░░░░░░░░░░░░░░░   35.61 %
+JavaScript    0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
 ```
 
 <!--END_SECTION:waka-->
@@ -213,7 +215,7 @@ No activity tracked
 <img src="https://i.pinimg.com/originals/6c/cc/20/6ccc207a075bbfdfb9749a702d563993.gif" width="100%"></img>
 
 <!-- start lastUpdate --> 
-  🕓 Actualizado en lun, 3 mar 2025, 18:54 GMT-6 
+  🕓 Actualizado en jue, 6 mar 2025, 18:55 GMT-6 
   <!-- end lastUpdate -->
 
 <!--![Visitor Count](https://profile-counter.glitch.me/Mod8124/count.svg)-->
