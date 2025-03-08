@@ -144,8 +144,11 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 [![LinkedIn](https://img.shields.io/badge/linkedin-a9fef7?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/denis-mu%C3%B1oztech)
 [![Gmail](https://img.shields.io/badge/Gmail-fe428e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denisenriquebaca@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-543DE0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Mod812#8041)
-[![CodePen](https://img.shields.io/badge/Codepen-a9fef7?style=for-the-badge&logo=codepen&logoColor=141321)](https://codepen.io/mod8124)
-[![FrontEndMentor](https://img.shields.io/badge/-FrontEnd%20Mentor-141321?style=for-the-badge&logo=FrontEndMentor&logoColor=white)](https://www.frontendmentor.io/profile/Mod8124)
+[![FrontEndMentor](https://img.shields.io/badge/-FrontEnd%20Mentor-141321?style=for-the-badge&logo=FrontEndMentor&logoColor=a9fef7)](https://www.frontendmentor.io/profile/Mod8124)
+[![CodePen](https://img.shields.io/badge/Codepen-a9fef7?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/mod8124)
+[![FrontEndMentor](https://img.shields.io/badge/-buymeacoffee-fe428e?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/denisenriqx)
+
+<br>
 
 
 
