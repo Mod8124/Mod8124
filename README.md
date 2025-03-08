@@ -1,8 +1,12 @@
 <div id="top"></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font&size=45&duration=6000&pause=1000&weight=800&color=f52277&background=5A37FF00&vCenter=true&width=460&height=45&lines=Hello+World!;¡Hola+Mundo!)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font&size=45&duration=6000&pause=1000&weight=800&color=f52277&background=5A37FF00&vCenter=true&width=460&height=45&lines=Hello+World!;¡Hola+Mundo!)](https://git.io/typing-svg)-->
+
+#
 
 <img src="./src/img/leaap.gif"  width="100%" styled="object:cover"></img>
+
+#
 
 <table align="right">
   <tr>
@@ -19,13 +23,14 @@
 
 ### Hey There, I'm Denis, a Software Engineer student & Web Designer
 
-I'm a swd student who started as a Web Designer, based in Costa Rica.
-I have a passion for learning about innovative technologies, animations, best practices. Currently working at Amazon in the Global AI team.
 
-I enjoy challenging myself and improving my skills. I participated in the <a href="https://worldskills.org/">WorldSkills</a> competition 2021.
 
+I started as a Web Designer and later shifted to software development. Currently, I work at Amazon in the Global AI team. I’m passionate about technology, learning, and improving my skills. I also participated in <a href="https://worldskills.org/">WorldSkills</a> 2021.
+
+#
 
 <div>
+
   <h1>🧮Tech Stack</h1>  
   
 <!--[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,md,php,python,vue,react,angular,laravel,nextjs,nuxtjs,express,bootstrap,tailwind,sass,styledcomponents,webpack,mongo,mysql,heroku,vercel,jest,ai,ps,figma,git,postman)](https://skillicons.dev)-->
@@ -115,6 +120,8 @@ I enjoy challenging myself and improving my skills. I participated in the <a hre
  -->
 </div>
 
+#
+
 <!-- # 🎯Goal
 > Well, if this year I get a job in
 the industry, my goal for the next year 2023 is to **study** formally **software engineer** at **Latina College** for personal reasons 💰 I can't right now.
@@ -125,9 +132,12 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 [![https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yooooooocr&cover_image=true&theme=natemoo-re&bar_color=a9fef7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=yooooooocr&redirect=true)
 
 
+
 # 🏆Motivation Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Not%20everyone%20who%20works%20hard%20is%20rewarded.%20But!%20All%20those%20who%20succeed%20have%20worked%20hard!&author=Kamogawa%20Genji)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 
 # 🌎Where to find me
 
@@ -136,6 +146,8 @@ I'd **love** to study **computer science** but in my country, there is nothing l
 [![Discord](https://img.shields.io/badge/Discord-543DE0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Mod812#8041)
 [![CodePen](https://img.shields.io/badge/Codepen-a9fef7?style=for-the-badge&logo=codepen&logoColor=141321)](https://codepen.io/mod8124)
 [![FrontEndMentor](https://img.shields.io/badge/-FrontEnd%20Mentor-141321?style=for-the-badge&logo=FrontEndMentor&logoColor=white)](https://www.frontendmentor.io/profile/Mod8124)
+
+
 
 # 📅Activity Stats
 
@@ -213,6 +225,8 @@ JavaScript    0 secs          ██▓░░░░░░░░░░░░░�
     </a>
 </div>
 <img src="https://i.pinimg.com/originals/6c/cc/20/6ccc207a075bbfdfb9749a702d563993.gif" width="100%"></img>
+
+#
 
 <!-- start lastUpdate --> 
   🕓 Updated on  Thu, Mar 6, 2025, 18:55 GMT-6 
