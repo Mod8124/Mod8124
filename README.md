@@ -120,7 +120,7 @@ I started as a Web Designer and later shifted to software development. Currently
  -->
 </div>
 
-#
+
 
 <!-- # 🎯Goal
 > Well, if this year I get a job in
