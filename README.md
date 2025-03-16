@@ -161,9 +161,7 @@ I started as a Web Designer and later shifted to software development. Currently
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         14 mins         █████████████░░░░░░░░░░░░   52.50 %
-JavaScript   12 mins         ██████████▓░░░░░░░░░░░░░░   43.00 %
-CSS          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
