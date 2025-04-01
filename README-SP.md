@@ -161,7 +161,7 @@ I started as a Web Designer and later shifted to software development. Currently
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   14 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
@@ -200,7 +200,7 @@ JSON   14 mins         ███████████████████
 
 <!-- personal code is on this repo -->
 <!-- start lastUpdate --> 
-  🕓 Actualizado en dom, 30 mar 2025, 18:59 GMT-6 
+  🕓 Actualizado en lun, 31 mar 2025, 19:03 GMT-6 
   <!-- end lastUpdate -->
 
 </div>
