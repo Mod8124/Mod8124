@@ -161,7 +161,11 @@ I started as a Web Designer and later shifted to software development. Currently
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         2 mins          ██████████░░░░░░░░░░░░░░░   40.55 %
+Markdown     1 min           ███████▒░░░░░░░░░░░░░░░░░   29.29 %
+HTML         0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+Other        0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+JavaScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
 ```
 
 <!--END_SECTION:waka-->
