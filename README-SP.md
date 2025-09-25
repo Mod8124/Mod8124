@@ -161,7 +161,7 @@ I started as a Web Designer and later shifted to software development. Currently
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
@@ -200,7 +200,7 @@ No activity tracked
 
 <!-- personal code is on this repo -->
 <!-- start lastUpdate --> 
-  🕓 Actualizado en dom, 21 sept 2025, 19:00 GMT-6 
+  🕓 Actualizado en mié, 24 sept 2025, 18:56 GMT-6 
   <!-- end lastUpdate -->
 
 </div>
