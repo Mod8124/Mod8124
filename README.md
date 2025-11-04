@@ -161,11 +161,11 @@ I started as a Web Designer and later shifted to software development. Currently
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 34 mins   ██████████████████████▒░░   89.50 %
-CSS          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-Bash         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+TypeScript   1 hr 36 mins    ███████████████████████▒░   92.70 %
+Bash         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
