@@ -161,8 +161,7 @@ I started as a Web Designer and later shifted to software development. Currently
 <!--START_SECTION:waka-->
 
 ```txt
-CSS    3 mins                ███████████████████████▒░   93.46 %
-HTML   0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
@@ -201,7 +200,7 @@ HTML   0 secs                █▓░░░░░░░░░░░░░░░
 
 <!-- personal code is on this repo -->
 <!-- start lastUpdate --> 
-  🕓 Actualizado en dom, 6 sept 2026, 20:04 GMT-6 
+  🕓 Actualizado en mié, 9 sept 2026, 20:18 GMT-6 
   <!-- end lastUpdate -->
 
 </div>
