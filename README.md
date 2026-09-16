@@ -161,11 +161,11 @@ I started as a Web Designer and later shifted to software development. Currently
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   43 mins               ███████████████▒░░░░░░░░░   61.35 %
-HTML         20 mins               ███████░░░░░░░░░░░░░░░░░░   28.65 %
-CSS          2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-JSON         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Other        2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+JavaScript   1 hr 11 mins          ███████████▓░░░░░░░░░░░░░   46.79 %
+HTML         48 mins               ████████░░░░░░░░░░░░░░░░░   32.07 %
+Markdown     11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Other        9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+CSS          8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
 ```
 
 <!--END_SECTION:waka-->
