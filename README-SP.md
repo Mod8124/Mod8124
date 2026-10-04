@@ -161,11 +161,7 @@ I started as a Web Designer and later shifted to software development. Currently
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   32 mins               ███████████████▒░░░░░░░░░   61.38 %
-CSS          15 mins               ███████▒░░░░░░░░░░░░░░░░░   29.25 %
-JSON         4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Markdown     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
@@ -204,7 +200,7 @@ HTML         0 secs                ░░░░░░░░░░░░░░░
 
 <!-- personal code is on this repo -->
 <!-- start lastUpdate --> 
-  🕓 Actualizado en mié, 30 sept 2026, 21:19 GMT-6 
+  🕓 Actualizado en sáb, 3 oct 2026, 21:33 GMT-6 
   <!-- end lastUpdate -->
 
 </div>
